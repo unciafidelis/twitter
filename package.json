@@ -1,0 +1,22 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "a twitter exercise dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unciafidelis/twitter.git"
+  },
+  "author": "Alejandro Morgan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unciafidelis/twitter/issues"
+  },
+  "homepage": "https://github.com/unciafidelis/twitter#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
